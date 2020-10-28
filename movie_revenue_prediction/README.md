@@ -1,4 +1,4 @@
-# Movie Revenue Predictor 
+# Movie Revenue PredictION 
 This is a simple project that describes some basic soncepts of Data gathering, Data cleaning, 
 and how to analyse the data graphically with matplotlib.
 
