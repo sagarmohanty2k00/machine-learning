@@ -1,9 +1,0 @@
-
-
-1. data gathering
-
-2. data cleaning
-
-3. data visualization with matplotlib
-
-4. Linear Regression with sklearn

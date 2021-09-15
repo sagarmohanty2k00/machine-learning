@@ -1,6 +1,12 @@
 # Machine_Learning_Portfolio
 
-This is a Repository where I have stored all of my ML projects from basics to advanced.
+## Day 1
 
-To see in details or to analyse any of the projects just go inside the project folder. 
- Every project contains its own README.md file for reference.
+* As the part of Day-1 I have learned the basics of ML.
+* Problems that can be solved usign ML.
+* How datasets are structured in SKlearn.
+* How to use ML Algorithms that are present in SKLearn.
+* How to devide the dataset into training and testing set with "traqin_test_split" function.
+* How to check efficiency of an algorithm.
+
+* And lastly created a small project ```Iris Flower Classification``` model.
